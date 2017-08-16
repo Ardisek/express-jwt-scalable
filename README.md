@@ -26,6 +26,7 @@ $ npm run start-dev
 ```
 
 ## Routes
+```
 App's routes are defined in main component `routes/index.js`.
 ```
 
