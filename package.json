@@ -1,0 +1,34 @@
+{
+  "name": "scalable-express-jwt",
+  "version": "0.9.0",
+  "description": "scalable express with JWT auth",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start-dev": "nodemon app.js"
+  },
+  "author": "ardisek",
+  "private": true,
+  "dependencies": {
+    "async": "^2.5.0",
+    "bcrypt": "^1.0.2",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.16.1",
+    "co": "^4.6.0",
+    "config": "^1.25.1",
+    "config.json": "0.0.4",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.1",
+    "express-acl": "^1.0.1",
+    "helmet": "^3.5.0",
+    "jsonwebtoken": "^7.3.0",
+    "moment": "^2.17.1",
+    "mongoose": "^4.8.4",
+    "morgan": "^1.8.1",
+    "serve-favicon": "^2.4.0"
+  },
+  "devDependencies": {
+    "config.json": "0.0.4",
+    "nodemon": "1.11.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "superSecret": "pleaseProvideYourSuperSecretForJwt",
+    "dbConfig": {
+        "DB_HOST": "localhost",
+        "DB_NAME": "sample"
+    }
+}
